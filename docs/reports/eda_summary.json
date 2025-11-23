@@ -1,0 +1,7 @@
+{
+  "n_rows": 50000,
+  "n_defaults": 2262,
+  "default_rate": 0.04524,
+  "num_numeric_features": 9,
+  "num_categorical_features": 5
+}
